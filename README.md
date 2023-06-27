@@ -16,7 +16,7 @@
 
 - ⚡ Fun fact **SpicoDer stands for Spider Coder.**
 
-<h3 align="left">Connect with me:</h3>
+<h3>Connect with me: <a href="https://www.linkedin.com/in/jcs08/">Linkedin</a></h3>
 <p align="left">
 </p>
 
