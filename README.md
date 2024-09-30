@@ -1,14 +1,13 @@
-[![MasterHead](https://i.ibb.co/khCc85X/Spi-Coder-banner.png)](https://catcoder.works)
-<h1 align="center">Hi 👋, I'm Carlo</h1>
-<h3 align="center">I'm a Computer Engineer who loves coding, trading and cats.</h3>
-<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/97d0c0c4209208d8ec9573c7e213e05872a9f59b703868647b559b77af601cc6/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f65382f66342f35332f65386634353334363961336563393765636433353464663436356437333931332e676966">
+[![MasterHead](https://firebasestorage.googleapis.com/v0/b/my-blog-c6a16.appspot.com/o/banner.png?alt=media&token=2c3f1786-65c7-4100-a939-0b7f69b8ff7a)](https://www.hapicoder.tech/)
+<h1 align="center">Hi 👋, I'm JC</h1>
+<h3 align="center">I'm a Fullstack Developer who loves coding, trading and cats.</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=spicoder&label=Profile%20views&color=0e75b6&style=flat" alt="spicoder" /> </p>
 
-- 🔭 I’m currently working as a **Freelance developer**
+- 🔭 I’m currently working as a **Software developer** in Quantrics
 
-- 📫 How to reach me **sarmiento.jc@outlook.ph**
+- 📫 How to reach me: **sarmiento.jc@outlook.ph**
 
-- ⚡ Fun fact **SpicoDer stands for Spider Coder.**
+- 🌐 My website: **https://www.hapicoder.tech/**
 
 <h3>Connect with me: <a href="https://www.linkedin.com/in/jcs08/">Linkedin</a></h3>
 <p align="left">
