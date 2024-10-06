@@ -7,8 +7,6 @@
 
 - 📫 How to reach me: **sarmiento.jc@outlook.ph**
 
-- 🌐 My website: **https://www.hapicoder.tech/**
-
 <h3>Connect with me: <a href="https://www.linkedin.com/in/jcs08/">Linkedin</a></h3>
 <p align="left">
 </p>
