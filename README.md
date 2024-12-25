@@ -1,9 +1,9 @@
 [![MasterHead](https://firebasestorage.googleapis.com/v0/b/my-blog-c6a16.appspot.com/o/banner.png?alt=media&token=2c3f1786-65c7-4100-a939-0b7f69b8ff7a)](https://www.hapicoder.tech/)
 <h1 align="center">Hi 👋, I'm JC</h1>
-<h3 align="center">I'm a Fullstack Developer who loves coding, trading and cats.</h3>
+<h3 align="center">I'm a Software Developer who loves computer and cats.</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=spicoder&label=Profile%20views&color=0e75b6&style=flat" alt="spicoder" /> </p>
 
-- 🔭 I’m currently working as a **Software developer** in Quantrics
+- 🔭 I’m currently working as a **Software developer** at Quantrics
 
 - 📫 How to reach me: **sarmiento.jc@outlook.ph**
 
